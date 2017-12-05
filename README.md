@@ -1,4 +1,5 @@
-# hello-world
+```c
+#include<stdio.h>
 
-now i'm here
-sad
+int main(){
+}
